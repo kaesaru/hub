@@ -26,3 +26,5 @@ git remote add [remoteName] [url]
 git remote -v 
 
 git push origin master //origin is the remote name, changes were on master branch
+
+git pull origin master //pulls files from remote to local 
